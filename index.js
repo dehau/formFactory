@@ -40,7 +40,7 @@ var generateBoundary = function generateBoundary() {
 };
 //fields : {field1Name: field1Value, field2Name: field2Value, ...}
 //fileField : { fileFieldName: { stream, name, size, type } }
-module.exports = function Revolution() {
+module.exports = function formFactory() {
   var fields = arguments[0] === undefined ? {} : arguments[0];
   var fileField = arguments[1] === undefined ? null : arguments[1];
 

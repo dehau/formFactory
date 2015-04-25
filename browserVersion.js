@@ -2,7 +2,7 @@
 /* global window, FormData */
 "use strict";
 
-window.Revolution = function () {
+window.formFactory = function () {
   var fields = arguments[0] === undefined ? {} : arguments[0];
   var fileField = arguments[1] === undefined ? null : arguments[1];
 
