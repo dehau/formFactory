@@ -1,0 +1,21 @@
+{
+  "name": "formFactory",
+  "main": "browserVersion.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/dehau/formFactory",
+  "authors": [
+    "dehau"
+  ],
+  "description": "simple multipart form data",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "FormData",
+    "file",
+    "upload",
+    "multipart",
+    "simple form"
+  ],
+  "license": "MIT"
+}
