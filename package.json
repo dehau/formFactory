@@ -2,6 +2,10 @@
   "name": "formFactory",
   "version": "0.1.0",
   "description": "simple multipart form data",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/dehau/formFactory.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "$(npm bin)/jasmine-node spec --verbose --captureExceptions",
