@@ -1,0 +1,25 @@
+{
+  "name": "formFactory",
+  "version": "0.1.0",
+  "description": "simple multipart form data",
+  "main": "index.js",
+  "scripts": {
+    "test": "$(npm bin)/jasmine-node spec --verbose --captureExceptions",
+    "compile": "$(npm bin)/gulp"
+  },
+  "keywords": [
+    "FormData",
+    "stream",
+    "file",
+    "upload",
+    "multipart",
+    "simple form"
+  ],
+  "author": "dehau",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-babel": "^5.1.0",
+    "jasmine-node": "^1.14.5"
+  }
+}
